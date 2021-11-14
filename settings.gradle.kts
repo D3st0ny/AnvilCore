@@ -5,6 +5,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "Airplane"
+rootProject.name = "AnvilCore"
 
-include("Airplane-API", "Airplane-Server")
+include("Anvil-API", "Anvil-Server")
