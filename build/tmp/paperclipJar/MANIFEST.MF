@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: io.papermc.paperclip.Paperclip
-Multi-Release: true
-Launcher-Agent-Class: io.papermc.paperclip.Agent
-Premain-Class: io.papermc.paperclip.Agent
-
